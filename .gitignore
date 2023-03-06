@@ -1,0 +1,17 @@
+# An * ensures that everything will be ignored.
+*
+
+# You can whitelist files/folders with !, these will not be ignored.
+!*.yaml
+!*.md
+!*.txt
+!.gitignore
+!genres
+
+# Ignore these files/folders
+_drafts
+.ssh
+discogs_token.json
+gitpush.sh
+secrets.yaml
+state.pickle

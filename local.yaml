@@ -1,0 +1,8 @@
+# Edit this file to fit your system.
+
+directory: /mnt/remote/Media/Music # Destination
+library: /mnt/remote/Media/Music/library.db # Database
+
+# plugins path:
+  #- ~/.config/beets/beetsplug/fetchartist # https://github.com/dkanada/beets-fetchartist
+  #- ~/.config/beets/beetsplug/discogs_extradata
